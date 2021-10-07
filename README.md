@@ -1,3 +1,5 @@
+![APM](https://img.shields.io/apm/l/vim-mode?style=for-the-badge)
+
 - 👋 Hi, I’m @h3ck0
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning C#
